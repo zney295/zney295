@@ -13,16 +13,13 @@
 
 </div>
 
-```text
-███████╗███╗   ██╗███████╗██╗   ██╗
-╚══███╔╝████╗  ██║██╔════╝╚██╗ ██╔╝   SYSTEMS & FULL-STACK
-  ███╔╝ ██╔██╗ ██║█████╗   ╚████╔╝    Rust · SIMD · MCP
- ███╔╝  ██║╚██╗██║██╔══╝    ╚██╔╝     Three.js · .NET
-███████╗██║ ╚████║███████╗   ██║       HCMC, Vietnam · UEH
-╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝       Building reliable software
-```
+<div align="center">
 
-[Portfolio ↗](https://zney295.id.vn/) · [resc engine ↗](https://github.com/zney295/resc)
+<img src="./assets/profile.svg" width="920" alt="Zney — Systems &amp; full-stack engineering. Rust, SIMD, MCP, Three.js, React, TypeScript, .NET. IT student at UEH, Ho Chi Minh City." />
+
+[Portfolio ↗](https://zney295.id.vn/) &nbsp; · &nbsp; [resc engine ↗](https://github.com/zney295/resc)
+
+</div>
 
 ---
 
