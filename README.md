@@ -1,43 +1,28 @@
 <div align="center">
 
-<!-- DYNAMIC HEADER TYPING SVG -->
 # <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=820&lines=SYSTEM.BOOT(ZNEY)+%E2%80%94+Systems+%26+Full-Stack+Engineer;Architecting+Low-Level+Rust+Engines+%26+AI+MCP+Sandboxes;Crafting+Immersive+3D+WebGL+%2F+Three.js+Experiences;Information+Technology+%40+University+of+Economics+HCMC+(UEH)" alt="Typing SVG Banner" />
 
-<!-- QUICK NAVIGATION & SOCIAL PILLS -->
-<p align="center">
-  <a href="https://psy-zney.github.io">
-    <img src="https://img.shields.io/badge/3D_Portfolio-psy--zney.github.io-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/psy-zney/resc">
-    <img src="https://img.shields.io/badge/Flagship-resc_(Rust_Forensics_MCP)-FF5733?style=for-the-badge&logo=rust&logoColor=white" alt="resc" />
-  </a>
-  <a href="https://www.facebook.com/psyotic.zney/">
-    <img src="https://img.shields.io/badge/Facebook-psyotic.zney-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:lequangkhanh295@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=psy-zney&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<p>
+  <a href="https://zney295.id.vn/"><img src="https://img.shields.io/badge/Portfolio-00D4E8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visit 3D portfolio" /></a>
+  <a href="https://github.com/zney295/resc"><img src="https://img.shields.io/badge/resc_%E2%86%97-Rust_%C2%B7_MCP-CE7148?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="resc — Rust forensics MCP" /></a>
+  <a href="mailto:lequangkhanh295@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Le Quang Khanh" /></a>
+  <a href="https://www.facebook.com/psyotic.zney/"><img src="https://img.shields.io/badge/Facebook-30363D?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
 </p>
 
-<!-- CLI TERMINAL TYPING SESSION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=780&lines=%3E+_SYSTEM.INIT(ZNEY)_SYSTEMS_%26_FULL-STACK_ENGINEER...;%3E+_FOCUS%3A+RUST_ENGINES+%E2%80%A2+AVX2_SIMD+%E2%80%A2+MCP_AGENTS+%E2%80%A2+THREE.JS;%3E+_STATUS%3A+BUILDING_HIGH-ASSURANCE_SOFTWARE_%40_UEH" alt="CLI Terminal Session" />
-</p>
+<img src="./assets/terminal.svg" width="720" alt="$ building Rust engines / crafting 3D web experiences / learning at UEH" />
 
 </div>
 
-<!-- ĐÓNG THẺ CENTER TRƯỚC KHI VẼ ASCII ĐỂ KHÔNG BỊ MÉO CHỮ -->
 ```text
-   ███████╗███╗   ██╗███████╗██╗   ██╗     //  SYSTEMS ARCHITECTURE & FULL-STACK ENGINEERING
-   ╚══███╔╝████╗  ██║██╔════╝╚██╗ ██╔╝     //  FOCUS  :: RUST • SIMD • MCP • THREE.JS • .NET
-     ███╔╝ ██╔██╗ ██║█████╗   ╚████╔╝      //  BASE   :: HO CHI MINH CITY, VIETNAM (UEH)
-    ███╔╝  ██║╚██╗██║██╔══╝    ╚██╔╝       //  STATUS :: BUILDING HIGH-ASSURANCE SOFTWARE
-   ███████╗██║ ╚████║███████╗   ██║        //  PORTAL :: [https://psy-zney.github.io](https://psy-zney.github.io)
-   ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝        //  ENGINE :: [https://github.com/psy-zney/resc](https://github.com/psy-zney/resc)
+███████╗███╗   ██╗███████╗██╗   ██╗
+╚══███╔╝████╗  ██║██╔════╝╚██╗ ██╔╝   SYSTEMS & FULL-STACK
+  ███╔╝ ██╔██╗ ██║█████╗   ╚████╔╝    Rust · SIMD · MCP
+ ███╔╝  ██║╚██╗██║██╔══╝    ╚██╔╝     Three.js · .NET
+███████╗██║ ╚████║███████╗   ██║       HCMC, Vietnam · UEH
+╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝       Building reliable software
 ```
 
-</div>
+[Portfolio ↗](https://zney295.id.vn/) · [resc engine ↗](https://github.com/zney295/resc)
 
 ---
 
@@ -81,7 +66,7 @@ core_principles:
 
 ---
 
-## 🛡️ Flagship Systems Spotlight: [`resc`](https://github.com/psy-zney/resc)
+## 🛡️ Flagship Systems Spotlight: [`resc`](https://github.com/zney295/resc)
 
 <div align="center">
 <table>
@@ -105,7 +90,7 @@ core_principles:
 - **📑 Forensic Chain-of-Custody:** Asynchronous non-blocking extraction with `O_NOFOLLOW` / `FILE_FLAG_OPEN_REPARSE_POINT` handle verification (TOCTOU protection), atomic `.part` clone/mapfile commits, and automated SHA-256 `.manifest.json` audit generation[cite: 2].
 
 <p align="right">
-  <a href="https://github.com/psy-zney/resc"><b>Explore the Architecture & Source Code →</b></a>
+  <a href="https://github.com/zney295/resc"><b>Explore the Architecture & Source Code →</b></a>
 </p>
 
 </td>
@@ -122,44 +107,44 @@ core_principles:
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 [3D Cyberpunk Creator Portfolio](https://github.com/psy-zney/psy-zney.github.io)
+### 🌌 [3D Cyberpunk Creator Portfolio](https://github.com/zney295/zney295.github.io)
 **Interactive Spatial Web Experience**
 - Custom 3D desktop workspace rendered in real-time with **Three.js / WebGL** & **React 18**.
 - Features physics-based mechanical keyboard audio/visual simulation, custom shaders, and smooth camera transitions.
 - **Tech:** `React 18` `TypeScript` `Three.js` `Tailwind CSS` `Vite`
-- 🔗 **[Live Experience](https://psy-zney.github.io)** • **[GitHub Repo](https://github.com/psy-zney/psy-zney.github.io)**
+- 🔗 **[Live Experience](https://zney295.id.vn/)** • **[GitHub Repo](https://github.com/zney295/zney295.github.io)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎧 [BeatSync](https://github.com/psy-zney/beatsync)
+### 🎧 [BeatSync](https://github.com/zney295/beatsync)
 **Real-Time Collaborative Audio Platform**
 - Low-latency synchronized music listening rooms built on **WebRTC** data/audio channels and **WebSockets**.
 - Sub-millisecond playback drift compensation and distributed room state synchronization.
 - **Tech:** `TypeScript` `WebRTC` `WebSockets` `Node.js`
-- 🔗 **[GitHub Repo](https://github.com/psy-zney/beatsync)**
+- 🔗 **[GitHub Repo](https://github.com/zney295/beatsync)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Windows Security & Cloud Relay](https://github.com/psy-zney/Security)
+### 🔐 [Windows Security & Cloud Relay](https://github.com/zney295/Security)
 **Proactive System Monitoring Daemon**
 - Background Windows Service engineered in **C# / .NET** and **PowerShell** for hardware-level telemetry and anti-theft tracking.
 - Evaluates virtualization-based security readiness and streams encrypted heartbeats through a cloud relay.
 - **Tech:** `C#` `.NET` `Windows Services` `PowerShell`
-- 🔗 **[GitHub Repo](https://github.com/psy-zney/Security)**
+- 🔗 **[GitHub Repo](https://github.com/zney295/Security)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [AI Heuristic TSP Solver](https://github.com/psy-zney/AI_Hill_Climbing_TSP) & [LearningEnglish](https://github.com/psy-zney/LearningEnglish)
+### 🧠 [AI Heuristic TSP Solver](https://github.com/zney295/AI_Hill_Climbing_TSP) & [LearningEnglish](https://github.com/zney295/LearningEnglish)
 **Algorithmic Optimization & NLP Parsing**
 - **TSP Solver:** Heuristic Hill-Climbing search optimization solving complex routing graphs.
 - **LearningEnglish:** Automated grammatical tense verification and syntactic structure parser.
 - **Tech:** `Algorithms` `NLP` `Full-Stack Web`
-- 🔗 **[TSP Repo](https://github.com/psy-zney/AI_Hill_Climbing_TSP)** • **[NLP App Repo](https://github.com/psy-zney/LearningEnglish)**
+- 🔗 **[TSP Repo](https://github.com/zney295/AI_Hill_Climbing_TSP)** • **[NLP App Repo](https://github.com/zney295/LearningEnglish)**
 
 </td>
 </tr>
@@ -207,18 +192,18 @@ core_principles:
 
 <!-- DÒNG 1: STATS & STREAK CÂN XỨNG -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psy-zney&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=00F0FF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psy-zney&theme=tokyonight&hide_border=true&background=1a1b27&ring=00F0FF&fire=FF5733&currStreakLabel=00F0FF" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zney295&amp;theme=tokyonight" height="200" alt="GitHub statistics for zney295" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zney295&theme=tokyonight&hide_border=true&background=1a1b27&ring=00F0FF&fire=FF5733&currStreakLabel=00F0FF" height="165" alt="GitHub Streak" />
 </p>
 
-<!-- DÒNG 2: TOP LANGUAGES (TỰ ĐỘNG CẬP NHẬT RUST, TYPESCRIPT, C# RẤT ĐẸP VÀ ỔN ĐỊNH) -->
+<!-- Top languages ranked by repository count. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psy-zney&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zney295&amp;theme=tokyonight" height="200" alt="Top languages by repository count for zney295" />
 </p>
 
 <!-- DÒNG 3: NẾU VẪN MUỐN DÙNG GRAPH, DÙNG THÊM CỜ CACHE_SECONDS ĐỂ GIẢM LỖI -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psy-zney&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FF5733&area=true&area_color=00F0FF" width="96%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zney295&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FF5733&area=true&area_color=00F0FF" width="96%" alt="Activity Graph" />
 </p>
 
 </div>
@@ -232,8 +217,8 @@ I am always open to discussing **Systems Programming (Rust/C#)**, **AI Agent Inf
 
 | Platform | Handle / Endpoint | Action |
 | :---: | :---: | :---: |
-| **🌐 3D Web Portfolio** | `psy-zney.github.io` | **[Launch Interactive Portfolio ↗](https://psy-zney.github.io)** |
-| **🛡️ Flagship Project** | `github.com/psy-zney/resc` | **[Explore `resc` Forensics Engine ↗](https://github.com/psy-zney/resc)** |
+| **🌐 3D Web Portfolio** | `zney295.id.vn` | **[Launch Interactive Portfolio ↗](https://zney295.id.vn/)** |
+| **🛡️ Flagship Project** | `github.com/zney295/resc` | **[Explore `resc` Forensics Engine ↗](https://github.com/zney295/resc)** |
 | **📫 Direct Email** | `lequangkhanh295@gmail.com` | **[Send an Email ↗](mailto:lequangkhanh295@gmail.com)** |
 | **💬 Facebook** | `fb.com/psyotic.zney` | **[Connect on Facebook ↗](https://www.facebook.com/psyotic.zney/)** |
 
